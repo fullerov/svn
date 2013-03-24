@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication7", "WindowsFormsApplication7.csproj", "{70FFE67F-9DB0-4DF6-81A2-CDFAA907DCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FFE67F-9DB0-4DF6-81A2-CDFAA907DCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FFE67F-9DB0-4DF6-81A2-CDFAA907DCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FFE67F-9DB0-4DF6-81A2-CDFAA907DCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FFE67F-9DB0-4DF6-81A2-CDFAA907DCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
