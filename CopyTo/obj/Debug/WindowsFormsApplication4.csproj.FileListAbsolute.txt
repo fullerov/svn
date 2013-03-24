@@ -1,0 +1,9 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CopyTo.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\CopyTo.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\CopyTo.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\CopyTo.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
