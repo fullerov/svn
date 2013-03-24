@@ -1,0 +1,78 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Relaxer.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Relaxer.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Relaxer.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Relaxer.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\bin\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\bin\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form5.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form5.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\bin\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\bin\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Zametki.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form5.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Zametki.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\bin\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.2\WindowsFormsApplication7\bin\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form5.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Zametki.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\bin\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\bin\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Ussr.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\FemtoWeb.FW1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.3\WindowsFormsApplication7\obj\Debug\FemtoWeb.FW2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\bin\Debug\RelaxeR.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\bin\Debug\RelaxeR.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form5.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Zametki.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\FemtoWeb.FW1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\FemtoWeb.FW2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Ussr.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Windows\Relaxer 1.4\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache

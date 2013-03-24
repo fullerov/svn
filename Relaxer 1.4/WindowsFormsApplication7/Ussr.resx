@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Интернационал
+
+С 1918 и до конца 1943 года он служил государственным гимном Советского Союза. Интернационал также является гимном коммунистических партий и многих социалистических движений по всему миру. 
+
+
+Вставай, проклятьем заклейменный
+Весь мир голодных и рабов
+Кипит наш разум возмущённый
+И в смертный бой вести готов.
+Весь мир насилья мы разроем
+До основанья, а затем
+Мы наш мы новый мир построим,
+Кто был никем, тот станет всем!
+
+Это есть наш последний
+И решительный бой.
+С Интернационалом
+Воспрянет род людской
+
+Никто не даст нам избавленья:
+Ни бог, ни царь и не герой
+Добьемся мы освобожденья
+Своею собственной рукой.
+Чтоб свергнуть гнет рукой умелой,
+Отвоевать свое добро —
+Вздувайте горн и куйте смело,
+Пока железо горячо!
+
+Довольно кровь сосать, вампиры,
+Тюрьмой, налогом, нищетой!
+У вас — вся власть, все блага мира,
+А наше право — звук пустой!
+Мы жизнь построим по иному —
+И вот наш лозунг боевой:
+ВСЯ ВЛАСТЬ НАРОДУ ТРУДОВОМУ!
+А дармоедов всех долой!
+
+Презренны вы в своём богатстве,
+Угля и стали короли!
+Вы ваши троны, тунеядцы,
+На наших спинах возвели.
+Заводы, фабрики, палаты —
+Все нашим создано трудом.
+Пора! Мы требуем возврата
+Того, что взято грабежем.
+
+Довольно, королям в угоду,
+Дурманить нас в чаду войны!
+Война тиранам! Мир Народу!
+Бастуйте, армии сыны!
+Когда ж тираны нас заставят
+В бою геройски пасть за них —
+Убийцы, в вас тогда направим
+Мы жерла пушек боевых!
+
+Лишь мы, работники всемирной
+Великой армии труда
+Владеть землёй имеем право,
+Но паразиты — никогда!
+И если гром великий грянет
+Над сворой псов и палачей,
+Для нас все так же солнце станет
+Сиять огнем своих лучей.
+
+Это есть наш последний
+И решительный бой.
+С Интернационалом
+Воспрянет род людской
+
+__________________________________________________________
+
+Гимн СССР — государственный гимн СССР, принятый в 1943 году, пришедший на замену Интернационалу.
+Написан в 1936 году как «Гимн партии большевиков» (слова В. И. Лебедева-Кумача). Музыка А. В. Александрова. В 1943 году был написан новый вариант слов - слова С. В. Михалкова, Г. А. Эль-Регистана. Утверждён 14 декабря 1943 года постановлением Политбюро ЦК ВКП(б). Впервые новый гимн исполнен в ночь на 1 января 1944. Официально используется с 15 марта 1944.
+
+1943 год
+
+Союз нерушимый республик свободных
+Сплотила навеки Великая Русь.
+Да здравствует созданный волей народов
+Единый, могучий Советский Союз!
+
+Припев:
+Славься, Отечество наше свободное,
+Дружбы народов надёжный оплот!
+Знамя советское, знамя народное
+Пусть от победы, к победе ведёт!
+
+Сквозь грозы сияло нам солнце свободы,
+И Ленин великий нам путь озарил.
+Нас вырастил Сталин — на верность народу
+На труд и на подвиги нас вдохновил.
+
+Припев:
+Славься, Отечество наше свободное,
+Счастья народов надёжный оплот!
+Знамя советское, знамя народное
+Пусть от победы, к победе ведет!
+
+Мы армию нашу растили в сраженьях,
+Захватчиков подлых с дороги сметём!
+Мы в битвах решаем судьбу поколений,
+Мы к славе Отчизну свою поведём!
+
+Припев:
+Славься, Отечество наше свободное,
+Cлавы народов надёжный оплот!
+Знамя советское, знамя народное
+Пусть от победы, к победе ведёт!
+
+__________________________________________________________
+
+С 1955 года гимн исполнялся без слов, потому что в прежнем тексте упоминался Сталин. Но официально старые слова гимна отменены не были, поэтому во время зарубежных выступлений советских спортсменов иногда исполнялся гимн со старыми словами, например, перед первой встречей Суперсерии (хоккей) СССР — Канада в 1972 г.
+
+__________________________________________________________
+
+1977 год.
+Утвержден указом Президиума Верховного Совета СССР от 27 мая 1977 г.
+Музыка А. В. Александрова, слова С. В. Михалкова, Г. Г. Эль-Регистана.
+
+Союз нерушимый республик свободных
+Сплотила навеки Великая Русь
+Да здравствует созданный волей народов
+Единый, могучий Советский Союз!
+
+Припев:
+Славься, Отечество наше свободное,
+Дружбы народов надежный оплот!
+Партия Ленина - сила народная
+Нас к торжеству коммунизма ведет!
+
+Сквозь грозы сияло нам солнце свободы,
+И Ленин великий нам путь озарил:
+На правое дело он поднял народы,
+на труд и на подвиги нас вдохновил!
+
+Припев:
+Славься, Отечество наше свободное,
+Дружбы народов надежный оплот!
+Партия Ленина - сила народная
+нас к торжеству коммунизма ведет!
+
+В победе бессмертных идеи коммунизма
+Мы видим грядущее нашей страны,
+И красному знамени славной Отчизны
+Мы будем всегда беззаветно верны!
+
+Припев:
+Славься, Отечество наше свободное,
+Дружбы народов надежный оплот!
+Партия Ленина - сила народная
+нас к торжеству коммунизма ведет!</value>
+  </data>
+</root>
