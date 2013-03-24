@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C24D2810-51ED-41F6-A1DE-0153E611850C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M1</RootNamespace>
+    <AssemblyName>ForecasteR</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>2342.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9X.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9X.Designer.cs">
+      <DependentUpon>Form9X.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormX10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX10.Designer.cs">
+      <DependentUpon>FormX10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormX12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX12.Designer.cs">
+      <DependentUpon>FormX12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormX2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX2.Designer.cs">
+      <DependentUpon>FormX2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormX24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX24.Designer.cs">
+      <DependentUpon>FormX24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormX6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX6.Designer.cs">
+      <DependentUpon>FormX6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormX7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX7.Designer.cs">
+      <DependentUpon>FormX7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormX8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX8.Designer.cs">
+      <DependentUpon>FormX8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9X.resx">
+      <DependentUpon>Form9X.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX10.resx">
+      <DependentUpon>FormX10.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX12.resx">
+      <DependentUpon>FormX12.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX2.resx">
+      <DependentUpon>FormX2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX24.resx">
+      <DependentUpon>FormX24.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX6.resx">
+      <DependentUpon>FormX6.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX7.resx">
+      <DependentUpon>FormX7.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX8.resx">
+      <DependentUpon>FormX8.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="x3.resx">
+      <DependentUpon>x3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="X4.resx">
+      <DependentUpon>X4.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="x3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="x3.Designer.cs">
+      <DependentUpon>x3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="X4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="X4.Designer.cs">
+      <DependentUpon>X4.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2342.ico" />
+    <Content Include="lll.ico" />
+    <None Include="Resources\pl_803.bmp" />
+    <None Include="Resources\2342.PNG" />
+    <Content Include="сссpо.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
