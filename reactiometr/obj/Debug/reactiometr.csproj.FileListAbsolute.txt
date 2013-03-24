@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\bin\Debug\Реакциометр.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\bin\Debug\Реакциометр.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\obj\Debug\Реакциометр.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\obj\Debug\Реакциометр.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\obj\Debug\Реакциометр.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\obj\Debug\Реакциометр.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Реакциометр\obj\Debug\Реакциометр.pdb
