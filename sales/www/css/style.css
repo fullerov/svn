@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* Стиль тела документа */
+body{ background-image:none; background-color:#FEFBF7;}
+#noscript{ font-weight:bold; color:red;}
+/* Стиль верхнего колонтикула */
+header{ margin-bottom:-5px;}
+/* Стиль таблиц */
+table{ background-color:#FFF; border-color:#D1C2B3;}
+table td{ padding-left:6px; padding-top:5px; padding-bottom:5px; padding-right:6px; font-size:14px;} 
+#table_head{ background-color:#F3ECE4; font-weight:bold; color:#95816F; }
+#get_link{ font-weight:bold; text-decoration:none; }
+#info_txt{ font-style:italic; font-weight:bold; color:gray;}
+/* Стиль основного блока сайта */
+#site{ width:90%; max-width:1020px; min-width:1020px; margin:0 auto; background-color:#FFF;}
+
+/* Стиль изображений */
+img{ border:none;}
+
+/* Стиль полей ввода */
+.input_text{ border:none; max-width:140px; background-color:#FFF; font-family: Tahoma, Geneva, sans-serif; font-size:16px; color:#B09C8A; font-weight:900; margin-left:3px;}
+
+/* Стили элементов блока авторизиции */
+#auth{ cursor:pointer; color:#FFF; font-style:normal;background-color:#D0C0B1; font-weight:bold; border:none; margin-right:70px;}
+#auth_block{ visibility:hidden; width:200px; height:0px; }
+#auth_block label{ font-family: Tahoma, Geneva, sans-serif; font-size:11px; font-weight:900; margin-left:3px; color:#B9A695;}
+#auth_button{ background-color:transparent; border:thin; margin-top:4px; font-weight:700; color:#CABAAA; margin-left:50px; cursor:pointer;}
+#reg_button{ text-decoration:none; background-color:transparent; border:thin; font-weight:700; color:#CABAAA; cursor:pointer; font-style:italic; margin-left:25px;}
+#info{ font-weight:lighter; color:#AB9785; font-size:13px; cursor:default; font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;}
+
+/* Стили элементов верхнего колонтикула */
+#top_menu { padding-top:5px; padding-bottom:5px; }
+#top_menu a{ background-color:#F2EBE3; text-decoration:none; cursor:pointer; font-family: "Courier New", Courier, monospace; font-size:18px; font-weight:900; color:#D6C7B8; font-style:normal;  }
+
+/* Стили бокового меню */
+#left{float:left; width:200px; background-image:url(img/left_menu.png); height:auto;}
+#left_menu{ width:200px; height:auto;}
+#left_menu p a{ background-color:transparent; text-decoration:none; cursor:pointer; font-family: "Courier New", Courier, monospace; font-size:15px; font-weight:600; color:#D0C0B1; font-style:normal; margin-left:15px; padding-left:1px; padding-right:1px; padding-top:1px; }
+#left_menu p img { margin-left:5px; margin-right:-10px;}
+
+
+/* Стиль блока контента */
+#content{ padding-left:5px; padding-top:5px; color:#3E3E3E; background-color:#FFF; margin-left:201px; margin-top:2px; margin-bottom:2px; font-family:Tahoma, Geneva, sans-serif; font-size:14px; border:none; height:auto; }
+#content p{background-color:#FFF; color:#494949; font-family:Tahoma, Geneva, sans-serif; font-size:14px;}
+#content h3{ color:#B29E8D;}
+#content ul a{ color:#CBBBAC; font-weight:bolder; text-decoration:none;}
+#content ul a:hover{ color:#CCC; font-weight:bold; text-decoration:underline;}
+#content label{ font-style:italic;}
+#content input{ margin-bottom:10px;}
+#link_ok{ text-decoration:none; padding-left:110px; font-weight:700; color:#CABAAA; margin-left:50px; cursor:pointer;}
+/* Стиль нижнего колонтикула */
+#footer{ padding-top:200px; }
