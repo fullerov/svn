@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+img {border:none;}
+.main_border{ border:1px solid #585858;}
+body{ background-image:url(img/back.png); border-color:#909090;
+font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#2E2E2E; margin-left: 4px;
+}
+.left{ background-color:#EBEBEB; border-right:1px solid #B4B4B4;}
+p{ font-family:Verdana, Geneva, sans-serif; font-size:12px; margin-left:4px; margin-right:4px; color:#2E2E2E; margin:15px;}
+.nav_title{ font-weight: bold; text-align:center; margin-left:15px; margin-right:15px; margin-top:17px; border-left:3px solid #8B9E8E; border-bottom:1px solid #585858; padding-bottom:5px; color:#323232; }
+.nav_links{ color: #999; font-weight: 600; text-align:left; margin-left:10px; margin-right:10px; margin-top:10px; font-size:12px; background-color:#f6f6f6 }
+
+.nav_links_d{ color:#89A592; font-weight: 600; text-align:left; margin-left:10px; margin-right:10px; margin-top:10px; font-size:12px; }
+
+.post{border:1px solid #f6f6f6; white-space: normal;  }
+.post_title{border:1px solid #f6f6f6; text-align:left;  background-color:#D2DDD3; white-space: normal; font-size:12px; }
+.post_name{ font-weight:bold; margin-top:5px; white-space: normal; }
+.post_add{ font-style:italic; color:#969696; margin-left:3px; margin-left:5px; font-size:12px; white-space: normal; font-weight:bold; font-size:11px; margin-top:-3px;}
+.post_descr{ margin-left:5px; font-family:Tahoma, Geneva, sans-serif; font-size:13px; white-space: normal; }
+.post_cat_views{font-style:italic; color: #999; margin-left:3px; margin-left:5px; font-size:12px; white-space: normal; text-align:right; margin-top:-30px; font-size:11px;}
+.post_author_cat{ font-style:italic; color: #AEBFB1; margin-left:3px; margin-left:5px; font-size:12px; white-space: normal; font-weight:bold; font-size:11px; }
+
+.m_img{ border:1px #616161 solid; margin-right:10px; margin-left:3px; margin-top:3px; }
+.post_link{ color:#686868; font-weight: bold; text-align:left; margin-left:1px; margin-right:4px; font-size:12px; margin-top:7px; }
+.post_view_title{ text-align:center; color:#404D37; font-size:16px; font-weight:bold; background-color: #FBFBFB;}
+.post_author{ margin-left:16px; font-size:11px; color:#777; text-align:left; font-weight:bold;}
+.post_date{margin-left:16px; font-size:11px; color:#85A589; text-align:left; font-style:italic; font-weight:bold;}
+.post_views{ text-align:right; font-size:12px; font-style:italic; font-weight:bold; color:#9F9F9F; margin-top:-21px;}
+.post_comm{text-align:left; color:#404D37; font-size:14px; font-weight:bold;}
+.post_comm_add{ font-size:11px; color:#585858;}
+.post_div{ border-bottom:1px dotted gray;
+border-top:1px dotted gray;
+margin:15px;
+	}
+.post_div p{ margin-left:0px;}
+.post_comment{text-align:left; color: #678969; font-size:14px; font-weight:600;}
+
+.search_desc{ text-align:left; font-size:11px; color: #F8F8F8; font-style:italic; font-weight:bold; margin-bottom:10px; } 
+.search_field{ border:1px solid #EAEAEA; margin-left:14px;}
+
+
+.menu_page{ margin:13px; font-family:"Times New Roman", Times, serif; font-size:16px; color:#89A592; font-weight:700; text-decoration:none;}
+.menu_page_a{ margin:13px; font-family:"Times New Roman", Times, serif; font-size:16px; color: #719768; font-weight:700; }
+
+.point{ border-bottom:1px dashed #CECECE; background-position:bottom; background-repeat:repeat-x; padding-bottom:5px; margin-bottom:3px;}
+
+.pstrnav {
+	padding: 0px 10px 20px 15px;
+	color: #909090;
+}
+
+.pstrnav a{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:11px;color: #85A589; text-decoration:underline;
+}
+
+.stat_str{font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:11px;color: #BABABA; margin-bottom:-6px; }
+
+.submit_button{ border:1px solid #C5CEC1; margin-left:14px; margin-top:10px; font-size:11px; color:#85A589; font-weight:800;}

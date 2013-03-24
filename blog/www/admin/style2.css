@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+#description_np{ background-color:#FFF;}
+img {border:none;}
+
+.main_border { 
+ 	white-space: normal; 
+}
+p {font-family:Verdana, Geneva, sans-serif; size:12px; margin:15px; white-space: normal; }
+.title_left{ color: #696969; font-size:14px; margin-bottom:-10px; text-shadow:#A6A6A6; font-family:"Comic Sans MS", cursive;}
+.head_back{ background-color:#D5D5D5;}
+.back{ background-color: #E8E8E8;
+	 
+	font-size:12px; 
+	font-style: normal;
+	font-family:"Times New Roman", Times, serif; white-space: normal; 
+}
+body{ background-image:url(img/back2.jpg);}
+
+.view_news_text{ margin:6px; font-size:12px; font-style:normal; text-align:left; }
+
+.view_news_add{ font-family:Tahoma, Geneva, sans-serif; color:#999; font-style:italic; font-size:12px; text-align:right;}
+
+.table{ table-layout:fixed; width:900; white-space: normal; }
+.table_two{ table-layout:fixed; width:637; white-space: normal; }
+
+.news{border:1px solid #f6f6f6; table-layout:fixed; white-space: normal;  }
+.news_title{border:1px solid #f6f6f6; text-align:left;  background-color:#E2E2E2; table-layout:fixed; white-space: normal; font-size:12px; }
+.news_name{ font-weight:bold; margin-top:5px; white-space: normal; }
+.news_add{ font-style:italic; color: #999; margin-left:3px; margin-left:5px; font-size:12px; table-layout:fixed; white-space: normal; }
+.news_descr{ margin-left:5px; font-family:Tahoma, Geneva, sans-serif; font-size:13px; white-space: normal; }
+
+.articles_title{ border:1px solid #f6f6f6; text-align:center;  background-color:#E2E2E2; table-layout:fixed; white-space: normal; font-size:12px;}
+.articles_name{ font-weight:bold; margin-top:5px; white-space: normal; font-size:12px;}
+.articles_add { font-style:italic; color: #999; margin-left:3px; margin-left:5px; font-size:12px; table-layout:fixed; white-space: normal; text-align:left;}
+.articles_descr{margin-left:5px; font-family:Tahoma, Geneva, sans-serif; font-size:13px; white-space: normal;}
+.articles { border:1px solid #f6f6f6; table-layout:fixed; white-space: normal;}
+
+.view_articles_title{ margin: 5px; color: #5F5925; font-size:14px; text-align:center;}
+.view_articles_text{ margin:6px; font-size:12px; font-style:normal; text-align:left;}
+.view_articles_add{ margin:5px; font-size:12px; font-style:italic; color:#999; text-align:right;}
+p.title {
+color:black;
+font-weight:normal;
+margin:5px;
+padding:5px;
+font-style:normal; white-space: normal; 
+}
+.view_news{margin-left:5px; margin-top:0px; color: #55491A; text-align:center; white-space: normal; font-weight:bold; }
+
+#coolmenu{ background-color:#D2D2D2; table-layout:fixed;
+border: 1px solid gray; /*Стиль рамки */
+border-bottom-width: 0;
+width: 93%; /*Ширина меню */
+  /*Фоновый цвет ячейки*/
+margin:8px; /*Ширина отступов*/
+
+}
+
+* html #coolmenu{ 
+width: 150px;/*Ширина меню для Internet Explorer*/
+}
+
+#coolmenu a{
+font: bold 13px Georgia, "Times New Roman", Times, serif; /*Шрифт текста*/
+padding: 2px; /*Внутренний отсутп текста ссылки от краев ячейки*/
+padding-left: 4px;/*Внутренний отсутп текста ссылки от левого края ячейки*/
+display: block;
+width: 100%; /*Ширина ячейки*/
+color: #585858;  /*Цвет текста*/
+text-decoration: none; /*Подчеркивание у ссылок - нет*/
+border-bottom: 1px solid gray;
+}
+
+html>body #coolmenu a{ 
+width: auto;
+}
+
+#coolmenu a:hover{
+background-color:#00000; /*Фоновый цвет ячейки при наведение курсора*/
+color:#009;  /*Цвет текста при наведении курсора*/
+}
+
+#coolmenu2{
+border: 0px gray; /*Стиль рамки */
+border-bottom-width: 0;
+width: 100%; /*Ширина меню */
+  /*Фоновый цвет ячейки*/
+margin:7px; /*Ширина отступов*/
+}
+
+* html #coolmenu2{ 
+width: 150px;/*Ширина меню для Internet Explorer*/
+}
+
+#coolmenu2 a{
+font: bold 13px Verdana; /*Шрифт текста*/
+padding: 2px; /*Внутренний отсутп текста ссылки от краев ячейки*/
+padding-left: 4px;/*Внутренний отсутп текста ссылки от левого края ячейки*/
+display: block;
+width: 100%; /*Ширина ячейки*/
+color: #000000;  /*Цвет текста*/
+text-decoration: yes; /*Подчеркивание у ссылок - нет*/
+border-bottom:  gray;
+}
+
+html>body #coolmenu2 a{ 
+width: auto;
+}
+
+#coolmenu2 a:hover{
+background-color:#00000; /*Фоновый цвет ячейки при наведение курсора*/
+color:#666;  /*Цвет текста при наведении курсора*/
+}
