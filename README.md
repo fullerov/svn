@@ -1,3 +1,1 @@
-svn
-===
-My projects by GNU
+My open-source...
