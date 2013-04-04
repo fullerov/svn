@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+/* Стиль основного блока сайта */
+#site{ width:90%; max-width:1020px; min-width:1020px; margin:0 auto; }
+
+/* Стиль формы регистрации */
+#reg_form table{ margin-bottom:20px; margin-left:125px; }
+#reg_form p{ font-weight:bold; margin-bottom:-22px;}
+
+/* Стиль изображений */
+img{ border:none;}
+
+/* Стиль полей ввода */
+.input_text{ background-color:#FFF; border:none;  margin-left:3px; font-family: Tahoma, Geneva, sans-serif; font-size:14px; color:#BFBFBF; font-weight:900;}
+
+/* Стили элементов блока авторизиции */
+#auth{ cursor:pointer; color:#FFF; font-style:normal;background-color:#E2E2E2; font-weight:bold; border:none; margin-right:70px;}
+#profile{ cursor:pointer; color:#FFF; font-style:normal;background-color:#E2E2E2; font-weight:bold; border:none; margin-right:70px;}
+#auth_block{ width:200px; visibility:hidden;}
+#profile_block{ visibility:hidden; width:200px; margin-top:-100px; margin-bottom:35px;}
+#profile_link{ background-color:transparent; border:none; color:#DDD; text-decoration:none; font-weight:bolder; margin-left:16px;}
+#profile_link:hover { background-color:#F0F0F0; border:none; color:#BBB; text-decoration:none; font-weight:bolder; margin-left:15px;}
+#auth_block label{ font-family: Tahoma, Geneva, sans-serif; font-size:11px; font-weight:900; margin-left:3px; color:#CDCDCD;}
+#auth_button{ margin-top:3px; background-color:transparent; border:thin; font-weight:700; color:#DADADA; margin-left:50px; cursor:pointer; margin-bottom:-15px;}
+#reg_button{ text-decoration:none; background-color:transparent; border:thin; font-weight:700; color:#DDD; margin-left:25px; cursor:pointer; font-style:italic; }
+#reg_button:hover {color:#FFF; background-color:#E2E2E2; font-style:normal;}
+
+/* Стили элементов верхнего колонтикула */
+#top_menu { padding-top:5px; padding-bottom:5px; }
+#top_menu a{ background-color: #F9F9F9; text-decoration:none; cursor:pointer; font-family: "Courier New", Courier, monospace; font-size:18px; font-weight:900; color:#E5E5E5; font-style:normal;  }
+#top_menu a:hover {color:#FFF; font-style:normal; background-color:#E2E2E2;}
+
+/* Стили бокового меню */
+#left{float:left; width:200px; background-image:url(img/left_menu.png); height:auto;}
+#left_menu{ width:200px; height:auto; margin-top:-75px; margin-bottom:-2px;}
+#left_menu p a{ background-color:transparent; text-decoration:none; margin-left:-15px; cursor:pointer; font-family: "Courier New", Courier, monospace; font-size:15px; font-weight:600; color:#CFCFCF; font-style:normal;}
+#left_menu p a:hover { color:#AAA; margin-left:-10px; }
+#arrow_img { margin-right:10px; }
+#arrow_img:hover { visibility:hidden;}
+
+/* Стиль блока контента */
+#content{ padding-left:5px; color:#3E3E3E; background-color:#FFF; margin-left:201px; margin-top:2px; margin-bottom:2px; font-family:Tahoma, Geneva, sans-serif; font-size:14px; border:none; height:auto;}
+#content p{background-color:#FFF; color:#3E3E3E; font-family:Tahoma, Geneva, sans-serif;}
+#error_txt{ font-weight:bold; color:darkred; text-decoration:none; text-align:center;}
+
+#list_txt{ font-family:Tahoma, Geneva, sans-serif; font-size:13px; padding-bottom:20px; color:#666;}
+#content table td a{ color:#CCC; font-family:Tahoma, Geneva, sans-serif; font-size:18px;margin-left:5px; text-decoration:none;}
+#content table td a:hover { text-decoration:underline; color:#999;}
+#content table td img{ margin:2px;}
+#content table td p{ float:right; font-style:italic; font-size:13px; color:#BBB}
+#content table td p a{ color:#D5D5D5; font-size:14px; font-weight:bold; text-decoration:none;}
+#content table td p a:hover{text-decoration:none; color:#A8A8A8;}
+#content h1{ font-size:18px; text-align:center; color:#888;}
+#art_about_left { font-style:italic; float:left; margin:10px; padding-bottom:30px; color:#777; font-size:12px;}
+#art_about_left a{ font-style:normal; text-decoration:none; color:#AAA; font-weight:bold; font-size:12px; margin-left:2px; margin-right:2px;}
+#art_about_left a:hover { color:#666666;}
+#art_about_right { font-style:italic; float:right; margin:10px; padding-bottom:30px; font-weight:bold; color:#BABABA; font-size:12px;}
+#profile_login{ text-align:center; cursor:default; color:#F1F1F1;font-weight:bold; font-size:25px;}
+#profile_login:hover{ color:#AAA;}
+#create_guest{ font-size:15px; color:#976C7A; font-weight:bold;}
+#create_guest a{ color:#990033;}
+#create_guest a:hover {text-decoration:none; color:#345690;}
+#content{ height:auto; min-height:400px;}
+#content label{ color:#999999;}
+#content input, textarea, select{ color:#666;}
+#content input:hover, textarea:hover, select:hover{ color:black;}
+#content h3{ font-size:17px; font-weight:bold; color:#666; cursor:default;}
+#content form{ margin-bottom:50px;}
+#content h2{ margin-bottom:-5px;}
+#content h2 a{ color:#999999; text-decoration:none; font-size:18px; margin-left:150px; cursor:pointer; } 
+#content h2 a:hover{ color:#BBB; text-decoration:underline;}
+
+#add_test_error {color:#f55; font-size:15px; font-weight:bold; margin:40px; cursor:default;}
+#add_test_error a{ text-decoration:none; color:#009; margin:40px;}
+#add_test_error a:hover { color:#0000CC; text-decoration:underline;}
+#vars input{ border-bottom:ridge; border-right:none; border-top:none; border-left:none;}
+#num_answer{ color:#999999; margin-left:25px;}
+#question_label{ margin-left:165px;}
+#create_test_button input{ color:#BBB; border:none; font-weight:bold; background-color:#EEE; cursor:pointer; margin-left:200px; font-size:14px;}
+#create_test_button input:hover{ color:#666666; background-color:#DDD;}
+#back_link a{ color:darkgray; margin-left:30px; margin-top:30px; font-weight:bold; text-decoration:none; }
+#back_link a:hover{ color:darkblue; cursor:pointer;}
+.execute_test a{ color:#D5D5D5; text-decoration:none; cursor:pointer;}
+.execute_test a:hover{ text-decoration:underline; color:#888;}
+.execute_test h5{ float:right; margin-right:30px; color:#AAA;}
+.execute_test h6{ color:#DDD;}
+.execute_test p{ font-style:normal; font-size:14px;}
+.execute_test h3 a{ color:darkgray; font-style:normal; font-size:17px; text-decoration:none; margin-left:35px;}
+.checkbox_answ p{ text-align:center;}
+/* Стиль сообщений об ошибке */
+#err_rep{ font-weight:bold; color:#8C0000;}
+
